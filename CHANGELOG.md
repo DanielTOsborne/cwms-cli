@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.5.0](https://github.com/DanielTOsborne/cwms-cli/compare/v0.4.0...v0.5.0) (2026-04-03)
+
+
+### Features
+
+* 45 users cli ([#147](https://github.com/DanielTOsborne/cwms-cli/issues/147)) ([08ae2a4](https://github.com/DanielTOsborne/cwms-cli/commit/08ae2a45dbc7a3d945d056a1dda991c641a1743e))
+
+
+### Bug Fixes
+
+* 108 issue passing  kl into cwms cli ([#170](https://github.com/DanielTOsborne/cwms-cli/issues/170)) ([2d4d63e](https://github.com/DanielTOsborne/cwms-cli/commit/2d4d63e5e2c2007ee74b1da042cfbca8dfe93cc5))
+* 128 add warningdisplay that there is a newer version avaiable ([#174](https://github.com/DanielTOsborne/cwms-cli/issues/174)) ([b6a66df](https://github.com/DanielTOsborne/cwms-cli/commit/b6a66dfceee39e9189a2f09f3f36008d7ae24b12))
+* 140 allow version target on update command ([#171](https://github.com/DanielTOsborne/cwms-cli/issues/171)) ([407af1f](https://github.com/DanielTOsborne/cwms-cli/commit/407af1f8695885c155660503798e85c8b243932c))
+* 51 change default precision case for csv2cwms ([#173](https://github.com/DanielTOsborne/cwms-cli/issues/173)) ([fabf94e](https://github.com/DanielTOsborne/cwms-cli/commit/fabf94ec6340724cf2a42797cf58aee342de62db))
+* 81 graceful error handling ([#176](https://github.com/DanielTOsborne/cwms-cli/issues/176)) ([2dd6356](https://github.com/DanielTOsborne/cwms-cli/commit/2dd6356a7db32074f4d49be33cb70101cc817a95))
+* Add and test for friendly user error output on usgs ts command ([#177](https://github.com/DanielTOsborne/cwms-cli/issues/177)) ([9b7886a](https://github.com/DanielTOsborne/cwms-cli/commit/9b7886a0018eb90566d35d5d43fdc4223c8a75a5))
+* Avoid circular reference failures in doc site ([#175](https://github.com/DanielTOsborne/cwms-cli/issues/175)) ([fa8dc68](https://github.com/DanielTOsborne/cwms-cli/commit/fa8dc68f7a2e139d6b0d5e2dcff3deb790552349))
+* missing space and add test ([#167](https://github.com/DanielTOsborne/cwms-cli/issues/167)) ([7f0da1f](https://github.com/DanielTOsborne/cwms-cli/commit/7f0da1f20552ae50d2142af496a63095d0aa154e))
+
 ## [0.4.0](https://github.com/HydrologicEngineeringCenter/cwms-cli/compare/v0.3.8...v0.4.0) (2026-04-02)
 
 
