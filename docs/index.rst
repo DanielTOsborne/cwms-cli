@@ -8,6 +8,7 @@ helpers, and shared API argument handling.
 Start here if you want to:
 
 - install the CLI and optional dependencies
+- understand where commands, subcommands, and options go
 - learn which commands are available
 - jump directly to task-specific guides and references
 
@@ -16,6 +17,8 @@ Quick Start
 
 - :doc:`Installation and Setup <cli/setup>` for install steps, optional
   dependencies, shared CDA inputs, and a working ``csv2cwms`` example
+- :doc:`Command Structure and Arguments <cli/command_layout>` for how to place
+  global options, commands, subcommands, and command-specific options
 - :doc:`CLI reference <cli>` for the full generated command reference
 - :doc:`Common API Arguments <cli/api_arguments>` for shared CDA connection
   flags and environment variables
@@ -49,6 +52,7 @@ Contents
    :caption: Getting Started
 
    cli/setup
+   cli/command_layout
    cli
    cli/api_arguments
 

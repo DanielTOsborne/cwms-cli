@@ -4,6 +4,9 @@ CLI reference
 See also
 --------
 
+- :doc:`Command Structure and Arguments <cli/command_layout>`
+- :doc:`blob <cli/blob>`
+- :doc:`clob <cli/clob>`
 - :doc:`csv2cwms <cli/csv2cwms>`
 - :doc:`CDA Regex Guide <cli/cda_regex>`
 - :doc:`load location ids-all <cli/load_location_ids_all>`
